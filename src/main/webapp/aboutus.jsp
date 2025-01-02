@@ -22,7 +22,7 @@
     </header>
     <div class="about-header">
       <h1>About Us</h1>
-      <p>Learn More About Our Mission and Values</p>
+      <p>Learn More About Our Mission and Values:</p>
     </div>
 
     <section class="mission">
