@@ -54,7 +54,7 @@ emp_dateofbirth,emp_adress,emp_profession,emp_expriance,emp_language,emp_smlink)
 (1,'Biruk Alemneh','Bachelor Degree','biruk.alemu@gmail.com','password123','+251934567890','Male','1990-05-15','Franco','Software Engineer',5,'Amharic','linkedin.com/in/birukalemu'),
 (2,'Fatuma Kasim','Master Degree','fatu.kasim@gmail.com','password456','+251965432101','Female','1985-11-20','Posta','Data Scientist',8,'English','linkedin.com/in/fatukasim'),
 (3,'Yonas Terefe','High School Diploma','yonastef@gmail.com','password789','+251951234567','Male','1995-03-10','Bole','Technician',2,'Amharic','linkedin.com/in/yonasterefe'),
-(4,'Sara Mekonin','Bachelor Degree','saramekon@example.com','password000','+251912223333','Female','1980-07-25','Gendehara','Research Scientist',12,'Oromic','linkedin.com/in/saramekonin'),
+(4,'Abeba Mekonin','Bachelor Degree','saramekon@example.com','password000','+251912223333','Female','1980-07-25','Gendehara','Research Scientist',12,'Oromic','linkedin.com/in/saramekonin'),
 (5,'Michael Belete','Bachelor Degree','michaelbelete@gmail.com','password111','+251923334444','Male','1992-09-01','Mebrat','Project Manager',7,'English','linkedin.com/in/michaelbelete'),
 (6,'Eldana Werku','Bachelor Degree','efiwerku@gmail.com','password222','+251934445555','Female','1998-02-18','Pikok','Marketing Specialist',3,'English','linkedin.com/in/efiwerku'),
 (7,'Robel Girma','Master Degree','robelgirma@gmail.com','password333','+251945556666','Male','1978-06-05','College','Financial Analyst',15,'Amharic','linkedin.com/in/robelgirma')
