@@ -202,7 +202,8 @@ button { width: 100%;
     font-size: 16px; 
     cursor: pointer; } 
 button:hover {
-    background-color: #3f6aa3;
+    background-color: white;
+    color: #3f6aa3;
 }
 @media (max-width: 420px) {
     .home-content p {
