@@ -65,7 +65,8 @@ body {
     background-color: #333;
     text-align: center;
     position: absolute;
-    top: 60px; /* Adjust based on your navbar height */
+    top: 60px;
+    /* Adjust based on your navbar height */
     width: 100%;
 }
 
@@ -282,11 +283,13 @@ section {
     margin: 20px;
 }
 
-.mission, .team {
+.mission,
+.team {
     background-color: #547ed8;
 }
 
-.values, .contact {
+.values,
+.contact {
     background-color: #3f6aa3;
 }
 

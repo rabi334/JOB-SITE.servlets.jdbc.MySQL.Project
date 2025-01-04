@@ -1,15 +1,16 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1" %>
 
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="ISO-8859-1">
-<title>JOB-SITE</title>
-<link rel="stylesheet" href="style.css" />
-</head>
-<body>
-<header class="header">
+  <!DOCTYPE html>
+  <html>
+
+  <head>
+    <meta charset="ISO-8859-1">
+    <title>JOB-SITE</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <header class="header">
       <a href="#" class="logo">JobBridge</a>
 
       <nav class="navbar">
@@ -19,9 +20,9 @@
         <a href="aboutus.jsp">About US</a>
         <a href="login.jsp">Log In</a>
         <a href="signup.jsp">Sign UP</a>
-        
+
       </nav>
-     
+
     </header>
     <section class="home">
       <div class="home-content">
@@ -32,5 +33,6 @@
         </p>
       </div>
     </section>
-</body>
-</html>
+  </body>
+
+  </html>

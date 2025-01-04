@@ -1,14 +1,15 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="ISO-8859-1">
-<title>Insert title here</title>
-<link rel="stylesheet" href="style.css">
-</head>
-<body>
-<header class="header">
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1" %>
+  <!DOCTYPE html>
+  <html>
+
+  <head>
+    <meta charset="ISO-8859-1">
+    <title>Insert title here</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <header class="header">
       <a href="#" class="logo">JobBridge</a>
 
       <nav class="navbar">
@@ -67,5 +68,6 @@
       <p>Phone: (123) 456-7890</p>
       <p>Address: 1234 Street Name, City, State, ZIP Code</p>
     </section>
-</body>
-</html>
+  </body>
+
+  </html>
