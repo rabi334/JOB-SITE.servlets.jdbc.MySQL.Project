@@ -26,11 +26,12 @@
         <h2 class="signEh2">Sign UP</h2>
         <form id="signupForm" action="signupemp" method="post">
           <label for="emp_name">Name:</label>
-          <input type="text" id="emp_name" name="emp_name" required />
+          <input type="text" id="emp_name" placeholder="Enter your name" name="emp_name" required />
 
           <label for="emp_sex">SEX:</label>
           <input
             type="text"
+		placeholder="Enter your gender"
             id="emp_sex"
             name="emp_sex"
             required
@@ -47,6 +48,7 @@
           <label for="emp_address">Address:</label>
           <input
             type="text"
+		placeholder="Enter your address"
             id="emp_address"
             name="emp_address"
             required
@@ -55,6 +57,7 @@
           <label for="emp_phoneno">Phone:</label>
           <input
             type="text"
+		placeholder="Enter your phone number"
             id="emp_phoneno"
             name="emp_phoneno"
             required
@@ -63,6 +66,7 @@
           <label for="emp_edulevel">Education level:</label>
           <input
             type="text"
+		placeholder="Enter your your education level"
             id="emp_edulevel"
             name="emp_edulevel"
             required
@@ -70,6 +74,7 @@
           <label for="emp_profession">Profession:</label>
           <input
             type="text"
+		placeholder="Enter your profession"
             id="emp_profession"
             name="emp_profession"
             required
@@ -77,6 +82,7 @@
           <label for="emp_experiance">Experience:</label>
           <input
             type="text"
+		placeholder="Enter your Experiance"
             id="emp_experiance"
             name="emp_experiance"
             required
@@ -84,6 +90,7 @@
           <label for="emp_language">Language:</label>
           <input
             type="text"
+		placeholder="Enter your comfortable language"
             id="emp_language"
             name="emp_language"
             required
@@ -92,6 +99,7 @@
           <label for="emp_email">Email:</label>
           <input
             type="email"
+		placeholder="Enter your Email"
             id="emp_email"
             name="emp_email"
             required
@@ -101,6 +109,7 @@
           <label for="emp_password">Password:</label>
           <input
             type="password"
+		placeholder="Enter your password"
             id="emp_password"
             name="emp_password"
             required
