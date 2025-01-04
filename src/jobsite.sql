@@ -51,7 +51,7 @@ insert into company(company_id,comapny_name,company_adress,company_phoneno,compa
 
 insert into employees(emp_id,emp_name,emp_edulevel,emp_email,emp_password,emp_phonenumber,emp_sex,
 emp_dateofbirth,emp_adress,emp_profession,emp_expriance,emp_language,emp_smlink)values
-(1,'Biruk Alemu','Bachelor Degree','biruk.alemu@gmail.com','password123','+251934567890','Male','1990-05-15','Franco','Software Engineer',5,'Amharic','linkedin.com/in/birukalemu'),
+(1,'Biruk Alemneh','Bachelor Degree','biruk.alemu@gmail.com','password123','+251934567890','Male','1990-05-15','Franco','Software Engineer',5,'Amharic','linkedin.com/in/birukalemu'),
 (2,'Fatuma Kasim','Master Degree','fatu.kasim@gmail.com','password456','+251965432101','Female','1985-11-20','Posta','Data Scientist',8,'English','linkedin.com/in/fatukasim'),
 (3,'Yonas Terefe','High School Diploma','yonastef@gmail.com','password789','+251951234567','Male','1995-03-10','Bole','Technician',2,'Amharic','linkedin.com/in/yonasterefe'),
 (4,'Sara Mekonin','Bachelor Degree','saramekon@example.com','password000','+251912223333','Female','1980-07-25','Gendehara','Research Scientist',12,'Oromic','linkedin.com/in/saramekonin'),
