@@ -69,18 +69,18 @@ application architecture with CRUD operations.
 ## Authors
 Group members name and ID
 
-1. Wondmeneh fekadu        Ugr/31346/15
+1. Wondmeneh Fekadu        Ugr/31346/15
 
-2. Tsiyon Berhanu          Ugr/31331/15
+2. Tsion Birhanu          Ugr/31331/15
 
-3. Rabira asefa            Ugr/31113/15
+3. Rabira Asefa            Ugr/31113/15
 
-4. Hermela kassahun        Ugr/30673/15
+4. Hermela Kassahun        Ugr/30673/15
 
 5. Moges Tesema            Ugr/30952/15
 
 6. Amanuel Asfaw           Ugr/30147/15
 
-7. Chernet mekuannt        Ugr/26553/14
+7. Chernet Mekuannt        Ugr/26553/14
 
-8. Huzeyfa suleyman.       Ugr/30699/15
+8. Huzeyfa Suleyman.       Ugr/30699/15
