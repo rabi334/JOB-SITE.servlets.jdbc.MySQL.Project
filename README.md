@@ -1,9 +1,15 @@
 # Java Dynamic Web Project
 
 ## Description
-This project is a Java Dynamic Web Application that utilizes JDBC for data storage in MySQL, 
-servlets for backend processing, and JSP files for the frontend. It demonstrates a simple web 
-application architecture with CRUD operations.
+This project demonstrates the implementation of a simple web application architecture using:
+
+JDBC: For data storage and interaction with a MySQL database.
+
+Servlets: For backend processing and managing HTTP requests and responses.
+
+JSP: For dynamic frontend rendering.
+
+The application supports CRUD operations (Create, Read, Update, Delete), showcasing an end-to-end web development workflow.
 
 ## Features
 - User Authentication
